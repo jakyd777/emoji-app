@@ -1,3 +1,10 @@
+
+# Emojipedia
+
+Small app uses react to creat library of emojis with help of react map function.
+
+<img src="./emojipedia.png" alt="page screen emojipedia">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
